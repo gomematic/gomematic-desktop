@@ -1,7 +1,6 @@
 # Gomematic: Desktop
 
-[![Build Status](http://cloud.drone.io/api/badges/gomematic/gomematic-desktop/status.svg)](http://cloud.drone.io/gomematic/gomematic-desktop)
-[![Stories in Ready](https://badge.waffle.io/gomematic/gomematic-api.svg?label=ready&title=Ready)](http://waffle.io/gomematic/gomematic-api)
+[![Build Status](https://cloud.drone.io/api/badges/gomematic/gomematic-desktop/status.svg)](https://cloud.drone.io/gomematic/gomematic-desktop)
 [![Join the Matrix chat at https://matrix.to/#/#gomematic:matrix.org](https://img.shields.io/badge/matrix-%23gomematic%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#gomematic:matrix.org)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4e08b2c0de2f4d32bda2bcf4d9671657)](https://www.codacy.com/app/gomematic/gomematic-desktop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomematic/gomematic-desktop&amp;utm_campaign=Badge_Grade)
 
